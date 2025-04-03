@@ -1,0 +1,9 @@
+[submodule "EPGStation"]
+	path = EPGStation
+	url = https://github.com/l3tnun/EPGStation.git
+[submodule "Mirakurun"]
+	path = Mirakurun
+	url = https://github.com/ponpon8086/Mirakurun.git
+[submodule "px4_drv"]
+	path = px4_drv
+	url = https://github.com/ponpon8086/px4_drv.git
